@@ -1,6 +1,6 @@
 # Crusaders
 
-This game is to present mine coding skill. 
+This game is to present my coding skill. 
 
 Used ArrayList to control the amount of bullets, enemies and the boss. 
 Used mutiple classes to create player, bullets, boss and enemies. 
